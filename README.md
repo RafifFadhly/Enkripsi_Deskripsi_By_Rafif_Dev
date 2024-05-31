@@ -5,5 +5,6 @@ fitur Enkripsi digunakan untuk menjaga agar mengurangi terjadinya kebocoran data
 
 Install :
 - Download semua file c#-nya
-- taruh di folder project
+- taruh di folder project atau copy paste kode ke file baru
+- panggil dengan using Encrypt
 
